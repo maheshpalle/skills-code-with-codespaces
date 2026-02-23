@@ -35,3 +35,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# .NET build artifacts #
+########################
+src/EmployeeApp/bin/
+src/EmployeeApp/obj/
