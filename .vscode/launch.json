@@ -6,6 +6,15 @@
       "request": "launch",
       "program": "src/hello.py",
       "console": "integratedTerminal"
+    },
+    {
+      "name": "Launch Employee App (C#)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/EmployeeApp/bin/Debug/net8.0/EmployeeApp.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/src/EmployeeApp",
+      "console": "integratedTerminal"
     }
   ]
 }
