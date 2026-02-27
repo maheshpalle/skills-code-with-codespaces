@@ -40,3 +40,5 @@ Thumbs.db
 ########################
 src/EmployeeApp/bin/
 src/EmployeeApp/obj/
+src/EmployeeApp.Tests/bin/
+src/EmployeeApp.Tests/obj/

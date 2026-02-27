@@ -1,6 +1,6 @@
 namespace EmployeeApp;
 
-public class EmployeeRepository
+public class EmployeeRepository : IEmployeeRepository
 {
     private readonly List<Employee> _employees = new();
     private int _nextId = 1;
